@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.2//EN" "http://www.oasis-open.org/docbook/xml/4.2/docbookx.dtd" [
+<!ENTITY sect-002 SYSTEM "./MatlabArduino_html_files/image-000-chapter.xfrag">
+<!ENTITY sect-003 SYSTEM "./MatlabArduino_html_files/image-001-chapter.xfrag">
+<!ENTITY sect-004 SYSTEM "./MatlabArduino_html_files/image-002-chapter.xfrag">
+<!ENTITY sect-005 SYSTEM "./MatlabArduino_html_files/image-003-chapter.xfrag">
+]>
+<book lang="pt">
+<?dbhtml filename="MatlabArduino.html"?>
+<!--Created by: Report Generator v3.12-->
+<!--Este reporte representa a seleção e criação do sistema de seleção e aquisição de dados via Arduino.-->
+<bookinfo>
+    <title>Seleção de Eletrodos e Leitura de Tensão</title>
+    <subtitle>TCC2</subtitle>
+    <author>
+        <firstname>Carlos Augusto Mattoso Pereira</firstname>
+    </author>
+    <pubdate>15-May-2013 09:54:26</pubdate>
+    <copyright>
+        <year>2013</year>
+        <holder>UCS</holder>
+    </copyright>
+</bookinfo>
+&sect-002;
+&sect-003;
+&sect-004;
+&sect-005;
+</book>
